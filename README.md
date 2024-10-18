@@ -51,9 +51,11 @@ Make sure you have the following installed:
 
 Usage:
 python app.py
+
 Follow the on-screen instructions to interact with the augmented reality filters.
 
 Contributing:
+
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or fixes.
 
 License:
