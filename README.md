@@ -61,14 +61,3 @@ License:
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 
-### Customization Tips
-
-- **Project Title**: Adjust the title as necessary to reflect your naming preference.
-- **Features**: Modify or expand the features section to better capture the unique aspects of your project.
-- **Technologies Used**: List any additional technologies or libraries that you are using.
-- **Getting Started**: Include any specific setup instructions or dependencies unique to your implementation.
-- **Usage**: Provide detailed instructions on how to use your application, including any command-line arguments or configurations.
-- **Contributing**: You might want to specify contribution guidelines if applicable.
-
-Feel free to adapt any sections based on your project's unique characteristics and requirements!
-
